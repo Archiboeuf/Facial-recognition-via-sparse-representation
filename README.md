@@ -1,5 +1,5 @@
 # Facial-Recognition-Via-Sparse-Recognition
-Project realized as part of a course of Compressed Sensing at ENSAE. Done in collaboration with a fellow student.
+Project realized as part of a course of *Compressed Sensing* at ENSAE. Done in collaboration with a fellow student.
 
 This package does not contain the original AR face data files, which need to be obtained through the link : http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html.
 
